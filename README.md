@@ -12,9 +12,11 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<h3>About Me</h3>
+### 🤟 About Me
 
-<h3>Tech Stack</h3>
+<br/>
+
+### 🛒 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,16 +30,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/vadim-gringauz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vadim-gringauz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vadim-gringauz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vadim-gringauz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
-<h3>Contact Me</h3>
+### 🤝🏻 Contact Me
 
 
 ## This profile is still in progress
