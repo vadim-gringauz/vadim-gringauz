@@ -38,8 +38,9 @@ From coaching on the court to coding on the screen, I'm a versatile full-stack d
 
 ### 🤝🏻 Contact Me
 <p align="center">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-gringauz/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadim.grin28@gmail.com)
+
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-gringauz/)
+[![My Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadim.grin28@gmail.com)
 </p>
 
 
