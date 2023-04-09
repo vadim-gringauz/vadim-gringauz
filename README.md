@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src=
-    "https://readme-typing-svg.herokuapp.com?duration=2000&font=concert+one&color=BA4A00&size=40&center=true&vCenter=true&width=600&height=100&lines=👓+Frontend;Backend;Fullstack;Creative;Self+learner"
+    "https://readme-typing-svg.herokuapp.com?duration=2000&font=concert+one&color=BA4A00&size=40&center=true&vCenter=true&width=600&height=100&lines=✔+Frontend;✔+Backend;✔+Fullstack;🟠+Creative;✅+Self+learner;🏀"
     >
   </a>
 </p>
