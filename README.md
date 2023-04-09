@@ -13,8 +13,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ### 🤟 About Me
-
-<br/>
+From coaching on the court to coding on the screen, I'm a versatile full-stack developer who's always ready for a challenge.
 
 ### 🛒 Tech Stack
 
@@ -33,14 +32,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vadim-gringauz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vadim-gringauz&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vadim-gringauz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 ### 🤝🏻 Contact Me
 
-
-## This profile is still in progress
 
 ### [Meanwile visit my LinkedIn page](https://www.linkedin.com/in/vadim-gringauz/)
 
