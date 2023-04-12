@@ -1,3 +1,5 @@
+[Full GITHUB Profile](https://github.com/vadim-gringauz)
+
 <h1 align="center"><b>Hi , I'm Vadim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md -->
@@ -23,7 +25,7 @@ From coaching on the court to coding on the screen, I'm a versatile full-stack d
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Bootstrsddap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
